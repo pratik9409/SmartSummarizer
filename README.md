@@ -1,12 +1,11 @@
 ﻿
-## Streamlit SaaS App Tutorial
+## Smart Summarizer SaaS App 
 
-## Full Course and Walkthrough
-https://www.udemy.com/course/build-a-generative-ai-micro-saas-app-with-python-streamlit/?referralCode=DB3859ED45D76E36A8AF
----
 
 ### Introduction
-This tutorial walks you through the creation of a simple Software as a Service (SaaS) application using Streamlit. The application integrates with MongoDB for authentication, provides text summarization and translation features using OpenAI's GPT-3.5 model, and offers subscription-only access to certain tools.
+This Software as a Service (SaaS) application using Streamlit. The application integrates with MongoDB for authentication, provides text summarization and translation features using OpenAI's GPT-3.5 model, and offers subscription-only access to certain tools. This project aims to provide powerful text summarization and translation tools, leveraging the capabilities of advanced AI models. 
+Application is designed with security and user experience in mind. utilizing robust authentication mechanisms and ensure a seamless interaction with AI-powered services. By focusing on both ease of use and advanced capabilities, we aim to cater to a wide range of users, from casual to professional.
+
 
 ### Directory Structure
 ```
@@ -28,7 +27,7 @@ streamlit-saas/
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ryanshrott/saas.git
-   cd streamlit-saas
+   cd SmartSummarizer
    ```
 
 2. **Install Dependencies**:
@@ -59,6 +58,5 @@ streamlit-saas/
 
 ### Conclusion
 
-This Streamlit SaaS application tutorial provides an excellent foundation for building robust and scalable SaaS platforms. Feel free to expand upon this foundation by adding more features, integrating additional services, and refining the user experience.
-
+This SaaS application aims to provide seamless and efficient text summarization and translation services, leveraging the power of AI to enhance user productivity and accessibility.
 ---
