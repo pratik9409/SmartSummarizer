@@ -1,5 +1,5 @@
 ﻿
-## Smart Summarizer SaaS App 
+## Smart Summarizer & Translator: SaaS App 
 
 
 ### Introduction
